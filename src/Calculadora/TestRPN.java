@@ -1,5 +1,7 @@
 package Calculadora;
 
+import java.util.Scanner;
+
 public class TestRPN {
 		/* metodo main */
 		public static void main(String args[]) { while(true) {
