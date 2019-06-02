@@ -2,7 +2,7 @@ package Calculadora;
 
 import java.util.Scanner;
 
-public class TestRPN {
+public class Ejecutable_RPN {
 		/* metodo main */
 		public static void main(String args[]) { while(true) {
 				Scanner in = new Scanner(System.in); 
