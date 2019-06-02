@@ -1,5 +1,4 @@
 package Calculadora;
-
 public class NodoPila {
 			public NodoPila(double dato, NodoPila abajo) {
 					this.dato = dato; 

@@ -1,5 +1,4 @@
 package Calculadora;
-
 public class RPN {
 	public void pushPila(double nuevo_dato) {
 		NodoPila nuevo_nodo = new NodoPila(nuevo_dato, arriba); 
